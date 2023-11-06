@@ -14,6 +14,6 @@ h1 ou mesmo #.
 Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
-instruções para instalação ou afins instruções (bloco distinto)
+instruções para instalação ou uso e afins instruções (bloco distinto)
 node app.js
 ```
