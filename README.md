@@ -15,4 +15,5 @@ Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
 instruções para instalação ou afins instruções (bloco distinto)
+node app.js
 ```
